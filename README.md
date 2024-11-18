@@ -1,1 +1,1 @@
-# Online-Shopping
+- In this project we use HTML, CSS, JAVA, J.S, MYSQL (Database) Languages to make a project with 3 Members, this project basically we buy only different types of shoes under Rs.1000.
